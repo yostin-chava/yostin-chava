@@ -14,8 +14,9 @@
 <div>
 	<p>- Apasionado por la tecnologia </p>
 	<p>- Ingeniero electronico</p>
-	<p>- Tester manual</p>
-	<p>- Tester automatizado</p>
+	<p>- QA Tester manual Junior</p>
+	<p>- QA Tester automatizado Junior </p>
+	<p>- Capacidad de resolucion de problemas.</p>
 	<p>- Actualmente estoy abierto para una pasantía o una nueva oportunidad laboral.</p>
 </div>
 <br>
@@ -23,10 +24,19 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
 
 <p align="center">
-	<h3 align="left">Fortalezas tecnicas:</h3>
+	<ul class="fortalezas">
+  		<li>Pruebas: funcionales, regresión, exploratorias.</li>
+  		<li>Diseño de listas de comprobación, casos de prueba e informes de errores.</li>
+  		<li>Pruebas manuales utilizando valores límite, clases de equivalencia, pruebas pares.</li>
+  		<li>Pruebas automatizadas API: Python, PyTest, librería requests.</li>
+  		<li>Pruebas automatizadas web: Python, PyTest, Selenium WebDriver, Page Object Model (POM).</li>
+		<li>Base de datos: SQL, postgreSQL.</li>
+  		<li>Control de versiones: Git, GitHub.</li>
+  		<li>Sistemas operativos: Linux, macOS, Windows.</li>
+  		<li>Herramientas: Jira, Postman, Android Studio, Selenium, Git, GitHub, Latex, Overleaf.</li>
+	</ul>
 	<p align="center">
 		<!-- JIRA -->
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" alt="jira" width="60" height="60"/>
@@ -46,42 +56,91 @@
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> 
 	</p> 
   </p> 
-
-
-
-
-<br>
-
+  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Projects: </b> 
 
+<!------------ Proyecto API: ------------>
+## <a href="https://github.com/yostin-chava/qa-project-Urban-Grocers-app-es"> <img src="https://e7.pngegg.com/pngimages/834/715/png-clipart-computer-icons-api-text-logo.png" width="25" height="25"/></a><b> Urban Grocers API: </b> 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Proyectos de automatizacion: </b>
+<p align="center">
+		<!-- API -->
+		<ul>
+			<li>Design test cases to verify the functionality of various API endpoints; report and track bugs using JIRA.</li>
+			<li>Apply equivalence partitioning and boundary value analysis for thorough test coverage. Manual testing was performed in Postman.</li>
+			<li>Automate API testing using Python and the requests library.</li>
+		</ul>
+  		<div>
+  			<p style="margin-left: 15px;">
+    				<b>Key Words:</b> Python, Request Library, Jira, Test List, Postman
+ 			</p>
+		</div>
+  		<div>
+			<img src="https://github.com/user-attachments/assets/00207009-2832-49e9-8944-83eaa1bda1fe" width ="25"><b> Projects Links: 
+				<ul>
+				<a href="https://github.com/yostin-chava/qa-project-Urban-Grocers-app-es"><li><p>Automation - GitHub</p></li></a>
+				<a href="https://docs.google.com/spreadsheets/d/1CJVati2FE2ZJACCMiveYNUiDokCHQg8q/edit?usp=sharing&ouid=102903299263068147054&rtpof=true&sd=true"><li><p>Casos de Prueba</p></li></a>
+				</ul>
+				</b>
+		</div>
+   </p> 
+<!------------ Proyecto WEB: ------------>
+
+## <a href="https://github.com/yostin-chava/qa-project-Urban-Routes-es"> <img src="https://e7.pngegg.com/pngimages/285/477/png-clipart-web-development-web-design-internet-web-hosting-service-world-wide-web-logo-symmetry-thumbnail.png" width="25" height="25"/></a><b> Urban Grocers API: </b> 
 
 <p align="center">
 	<p align="center">
 		<!-- API -->
-		<h3 style="text-decoration: underline;">API</h3>
-		<a href="https://github.com/yostin-chava/qa-project-Urban-Grocers-app-es" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/834/715/png-clipart-computer-icons-api-text-logo.png" alt="API" width="60" height="60"/></a> 
-		<h3>Tecnologias utilizadas:</h3>
-		<div>
-			<p>- Python </p>
-			<p>- pytest </p>
-			<p>- Librery: Request</p>
+		<ul>
+			<li>Design test checklists and test cases to validate both functionality and UI design; log and track bugs using JIRA.</li>
+			<li>Apply equivalence partitioning and boundary value analysis to ensure robust test coverage.</li>
+			<li>Automate web application tests using the Page Object Model (POM) pattern with Selenium.</li>
+		</ul>
+  		<div>
+  			<p style="margin-left: 15px;">
+    				<b>Key Words:</b> Python, Pytest, selenium WebDriver, Jira, Checklist, Test List, POM.
+ 			</p>
 		</div>
-		<!-- WEB -->
-		<h3>Pagina Web</h3>
-		<a href="https://github.com/yostin-chava/qa-project-Urban-Routes-es" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/285/477/png-clipart-web-development-web-design-internet-web-hosting-service-world-wide-web-logo-symmetry-thumbnail.png" alt="API" width="60" height="60"/></a> 
-		<h3>Tecnologias utilizadas:</h3>
-		<div>
-			<p>- Python </p>
-			<p>- pytest </p>
-			<p>- Selenium </p>
-			<p>- Webdriver </p>
+  		<div>
+			<img src="https://github.com/user-attachments/assets/00207009-2832-49e9-8944-83eaa1bda1fe" width ="25"><b> Projects Links: 
+				<ul>
+				<a href="https://github.com/yostin-chava/qa-project-Urban-Routes-es"><li><p>Automation - GitHub</p></li></a>
+				<a href="https://docs.google.com/spreadsheets/d/12GQ6bn0m1nXxZ6E_B-hzs9iY--x2E32U/edit?usp=sharing&ouid=102903299263068147054&rtpof=true&sd=true"><li><p>Check list and issues</p></li></a>
+				<a href="https://docs.google.com/spreadsheets/d/1h1gUPOs6noZoV1yLDFITd-ohCYlQumul/edit?usp=sharing&ouid=102903299263068147054&rtpof=true&sd=true"><li><p>Test cases, equivalence partitioning</p></li></a>
+				<a href="https://docs.google.com/spreadsheets/d/1RqfTAFmxCigGUIWPf1IsMfipRy46A1sI/edit?usp=sharing&ouid=102903299263068147054&rtpof=true&sd=true"><li><p>Checklist, Test cases and issues</p></li></a>
+				</ul>
+				</b>
 		</div>
-	</p> 
-  </p> 
+  	</p>
+   </p> 
 
+<!------------ Proyecto hibrido: ------------>
 
+## <a href="https://github.com/yostin-chava/qa-project-Urban-Routes-es"> <img src="https://appmaster.io/api/_files/PqV7MuNwv89GrZvBd4LNNK/download/" width="25" height="35"/></a><b> Urban Scooter: </b> 
+
+<p align="center">
+	<p align="center">
+		<!-- API -->
+		<ul>
+			<li>Designed checklists, test cases, and error reports in JIRA. Applied boundary value analysis, equivalence partitioning, and pair testing techniques.</li>
+			<li>Performed integration and end-to-end testing to verify proper interaction between the website, mobile application, API, and database.</li>
+			<li>Conducted manual testing using Android Studio and Postman.</li>
+		</ul>
+  		<div>
+  			<p style="margin-left: 15px;">
+    				<b>Key Words:</b> Postman, Android Studio, Data Base, postgreSQL, Jira, Checklist, Test List, POM.
+ 			</p>
+		</div>
+  		<div>
+			<img src="https://github.com/user-attachments/assets/00207009-2832-49e9-8944-83eaa1bda1fe" width ="25"><b> Projects Links: 
+				<ul>
+				<a href="https://docs.google.com/spreadsheets/d/1NNCvepuM6Ma-9toSjPLB44OL9QTp9ZWw/edit?usp=sharing&ouid=102903299263068147054&rtpof=true&sd=true"><li><p>Checklist, Test cases and issues</p></li></a>
+				</ul>
+				</b>
+		</div>
+  	</p>
+   </p> 
+			
 
 
 <br>
