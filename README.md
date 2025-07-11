@@ -98,7 +98,7 @@
 		</ul>
   		<div>
   			<p style="margin-left: 15px;">
-    				<b>Key Words:</b> Python, Pytest, selenium WebDriver, Jira, Checklist, Test List, POM.
+    				<b>Key Words:</b> Python, Pytest, selenium WebDriver, DevTools, Jira, Checklist, Test List, POM.
  			</p>
 		</div>
   		<div>
