@@ -26,24 +26,24 @@
 <br>
 
 <p align="center">
-	<h3 align="left">Languages and Tools:</h3>
+	<h3 align="left">Fortalezas tecnicas:</h3>
 	<p align="center">
 		<!-- JIRA -->
-		<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <i class="devicon-jira-plain-wordmark colored"></i><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" alt="c" width="60" height="60"/></a> 
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" alt="jira" width="60" height="60"/>
 		<!-- Python -->
-		<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="cplusplus" width="60" height="60"/> </a> 
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="cplusplus" width="60" height="60"/>
 		<!-- GIT -->
-		<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> 
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" alt="git" width="60" height="60"/>
 		<!--My SQL -->
-		<a href="https://www.mysql.com/" target="" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
 		<!-- Selenium -->
-		<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Selenium" width="60" height="60"/> </a> 
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Selenium" width="60" height="60"/> 
+		<!-- Android studio -->
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-plain-wordmark.svg" alt="linux" width="60" height="90"/> 
+		<!-- POSTMAN -->
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain-wordmark.svg" alt="linux" width="80" height="120"/> 
 		<!-- Linux -->
-		<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a> 
-		<!-- Android studio -->
-		<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="linux" width="60" height="60"/> </a> 
-		<!-- Android studio -->
-		<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain-wordmark.svg" alt="linux" width="80" height="120"/> </a> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> 
 	</p> 
   </p> 
 
@@ -56,15 +56,28 @@
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Proyectos de automatizacion: </b>
-<br>
 
 <p align="center">
 	<p align="center">
 		<!-- API -->
-		<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <i class="devicon-jira-plain-wordmark colored"></i><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" alt="c" width="60" height="60"/></a> 
+		<h3 style="text-decoration: underline;">API</h3>
+		<a href="https://github.com/yostin-chava/qa-project-Urban-Grocers-app-es" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/834/715/png-clipart-computer-icons-api-text-logo.png" alt="API" width="60" height="60"/></a> 
+		<h3>Tecnologias utilizadas:</h3>
+		<div>
+			<p>- Python </p>
+			<p>- pytest </p>
+			<p>- Librery: Request</p>
+		</div>
 		<!-- WEB -->
-		<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="cplusplus" width="60" height="60"/> </a> 
-		
+		<h3>Pagina Web</h3>
+		<a href="https://github.com/yostin-chava/qa-project-Urban-Routes-es" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/285/477/png-clipart-web-development-web-design-internet-web-hosting-service-world-wide-web-logo-symmetry-thumbnail.png" alt="API" width="60" height="60"/></a> 
+		<h3>Tecnologias utilizadas:</h3>
+		<div>
+			<p>- Python </p>
+			<p>- pytest </p>
+			<p>- Selenium </p>
+			<p>- Webdriver </p>
+		</div>
 	</p> 
   </p> 
 
@@ -78,21 +91,18 @@
 
 <!--------------------------------- Linux ------------------------------------------->
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Contacto...!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 	<ul>
-		<li>
-			<a href="https://www.linkedin.com/in/yostin-chavarria/" target="_blank">
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="100" height="100" alt=linkedin style="margin-bottom: 5px;"/>
-			</a>
-		</li>
+		<a href="https://www.linkedin.com/in/yostin-chavarria/" target="_blank">
+		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="100" height="100" alt=linkedin style="margin-bottom: 5px;"/>
+		</a>
 		<br>
-		<li>
-			<a href="mailto:yostinch@gmail.com" target="_blank">
-			<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="100" height="100" alt="mail" style="margin-bottom: 5px;" />
-			</a>
-		</li>	
+		<a href="mailto:yostinch@gmail.com" style="display:inline-flex; flex-direction:column; align-items:center; text-decoration:none;">
+  		<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="100" height="100" alt="Gmail"><br>
+		</a>
+		<span style="margin-top:5px;">Correo: yostinch@gmail.com</span>
 	</ul>
 </div>
 <br>
