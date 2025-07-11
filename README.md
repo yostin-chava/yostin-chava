@@ -12,12 +12,12 @@
 ## <picture><img  width = 50px></picture> **Acerca de mi**
 <br>
 <div>
-	<p>💡 Apasionado por la tecnología y el aprendizaje constante
-	<p>🎓 Ingeniero Electrónico/p>
-	<p>🧪 QA Tester Manual Junior/p>
-	<p>🤖 QA Tester Automatizado Junior/p>
-	<p>🧠 Con habilidades para la resolución de problemas/p>
-	<p>🚀 Abierto a pasantías o nuevas oportunidades laborales/p>
+	<p>💡 Apasionado por la tecnología y el aprendizaje constante</p>
+	<p>🎓 Ingeniero Electrónico</p>
+	<p>🧪 QA Tester Manual Junior</p>
+	<p>🤖 QA Tester Automatizado Junior</p>
+	<p>🧠 Con habilidades para la resolución de problemas</p>
+	<p>🚀 Abierto a pasantías o nuevas oportunidades laborales</p>
 	<p>Tengo experiencia en el diseño de listas de comprobación, casos de prueba e informes de incidencias, así como en la ejecución de pruebas manuales y automatizadas, incluyendo pruebas de humo, regresión e identificación de zonas grises.<p>
 </div>
 <br>
