@@ -4,12 +4,9 @@
 
 <body>
 	<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-	<h1 align="center">Hola, soy Yostin Chavarria Castro </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-	<br>
- 	<h1 align="center">Hola, soy Yostin Chavarria Castro </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-	<br>
-
-
+	<h1 align="center">QA Engineer | Queality assurance</b></h1>
+ 	<h1 align="left">Hola, soy Yostin Chavarria Castro </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+	
 <!------------ Acerca de mi: ------------>
 ## <picture><img  width = 50px></picture> **Acerca de mi**
 <br>
@@ -26,6 +23,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+<!------------ Acerca de mi: ------------>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills and tools</b>
 
 <p align="center">
@@ -39,8 +37,6 @@
 		<ul>
 			<li>API: Python, PyTest, librería requests</li>
 			<li>Web: Python, PyTest, Selenium WebDriver, Page Object Model (POM)</li>
-
-Implementación de frameworks con PyTest y Page Object Model (POM).
 		</ul>
 		<p>🗄️ Bases de datos<p>
 		<ul>
@@ -77,9 +73,10 @@ Implementación de frameworks con PyTest y Page Object Model (POM).
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> 
 	</p> 
   </p> 
-  
+
+<!------------ Acerca de mi: ------------>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Projects: </b> 
+## <img src="https://i.pinimg.com/originals/4f/a1/7b/4fa17b3d6b97201675a404f72a0a15fe.gif" width ="25"><b> Projects: </b> 
 
 <!------------ Proyecto API: ------------>
 ## <a href="https://github.com/yostin-chava/qa-project-Urban-Grocers-app-es"> <img src="https://e7.pngegg.com/pngimages/834/715/png-clipart-computer-icons-api-text-logo.png" width="25" height="25"/></a><b> Urban Grocers API: </b> 
@@ -169,14 +166,19 @@ Implementación de frameworks con PyTest y Page Object Model (POM).
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
-<!--------------------------------- Linux ------------------------------------------->
+<!--------------------------------- Contacto ------------------------------------------->
 
-## <b> Contacto...!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
+## <b> Contacto...!</b>
+
 <div align='left'>
 	<ul>
 		<a href="https://www.linkedin.com/in/yostin-chavarria/" target="_blank">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="100" height="100" alt=linkedin style="margin-bottom: 5px;"/>
+			<p align="left">
+				<!-- JIRA -->
+				<img src="https://cdn-icons-png.flaticon.com/512/10186/10186926.png" alt="linkedin" width="40" height="40"/>
+				<!-- Python -->
+				<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7rNXq5RhB-1WFy2kbBSjFpva9MidNNW8nWA&s" alt="linkedin" width="130" height="130"/>
+			</p> 
 		</a>
 		<br>
 		<a href="mailto:yostinch@gmail.com" style="display:inline-flex; flex-direction:column; align-items:center; text-decoration:none;">
