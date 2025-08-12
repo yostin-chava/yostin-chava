@@ -8,8 +8,9 @@
  	<h1 align="left">Hola, soy Yostin Chavarria Castro </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 	
 <!------------ Acerca de mi: ------------>
-## <picture><img  width = 50px></picture> **Acerca de mi**
+## <picture><img  width = 50px></picture> **📌 Acerca de mi**
 <br>
+<!------------ 
 <div>
 	<p>💡 Apasionado por la tecnología y el aprendizaje constante</p>
 	<p>🎓 Ingeniero Electrónico</p>
@@ -19,12 +20,17 @@
 	<p>🚀 Abierto a pasantías o nuevas oportunidades laborales</p>
 	<p>Tengo experiencia en el diseño de listas de comprobación, casos de prueba e informes de incidencias, así como en la ejecución de pruebas manuales y automatizadas, incluyendo pruebas de humo, regresión e identificación de zonas grises.<p>
 </div>
+------------>
+<div>
+	<p>Hola, soy Yostin Chavarria Castro, Ingeniero Electrónico con formación y experiencia como QA Tester, tanto manual como automatizado. Me apasiona la tecnología, el aprendizaje continuo y mejorar la calidad del software a través de pruebas bien estructuradas y eficientes.</p>
+	<p>🔍 En busca de nuevas oportunidades o pasantías en el área de aseguramiento de la calidad de software.<p>
+</div>
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<!------------ Acerca de mi: ------------>
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills and tools</b>
+<!------------ Skills and tools ------------>
+## <img src="https://i.pinimg.com/originals/a6/8e/88/a68e88e5d3ecfb89ccec6859420e0514.gif" width ="25"><b> Skills and tools</b>
 
 <p align="center">
 		<p>🧪 Pruebas de software<p>
@@ -158,35 +164,44 @@
 		</div>
   	</p>
    </p> 
-			
+<!--------------------------------- Funciones que puedo desempeñar ------------------------------------------->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
+## <b>🗃️ Funciones que puedo desempeñar 🔌</b>
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
+<p align="center">
+		<p>Pruebas Manuales<p>
+		<ul>
+			<li>Ejecución de pruebas funcionales, de regresión y exploratorias.</li>
+			<li>Validación de usabilidad y experiencia de usuario (UX).</li>
+			<li>Diseño y documentación de casos de prueba, checklists y reportes de defectos.</li>
+		</ul>
+  		<p>Pruebas Automatizadas<p>
+		<ul>
+			<li>Automatización de pruebas web utilizando Selenium WebDriver con Python.</li>
+			<li>Desarrollo e implementación de frameworks de automatización basados en PyTest y el patrón Page Object Model (POM).</li>
+		</ul>
+  		<p>Pruebas de API<p>
+		<ul>
+			<li>Validación de endpoints REST utilizando Postman y la biblioteca requests de Python.</li>
+			<li>Verificación de códigos de estado HTTP y estructuras de respuesta en JSON.</li>
+			<li>Creación de colecciones y automatización de pruebas mediante scripts personalizados.</li>
+		</ul>
+  		<p>Base de datos<p>
+		<ul>
+			<li>Ejecución de consultas SQL para validación de datos.</li>
+			<li>Verificación de integridad, consistencia y calidad de la información almacenada.</li>
+		</ul>
 
 <!--------------------------------- Contacto ------------------------------------------->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+## <b> 📬 Contacto</b>
 
-## <b> Contacto...!</b>
-
-<div align='left'>
-	<ul>
-		<a href="https://www.linkedin.com/in/yostin-chavarria/" target="_blank">
-			<p align="left">
-				<!-- JIRA -->
-				<img src="https://cdn-icons-png.flaticon.com/512/10186/10186926.png" alt="linkedin" width="40" height="40"/>
-				<!-- Python -->
-				<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7rNXq5RhB-1WFy2kbBSjFpva9MidNNW8nWA&s" alt="linkedin" width="130" height="130"/>
-			</p> 
-		</a>
-		<br>
-		<a href="mailto:yostinch@gmail.com" style="display:inline-flex; flex-direction:column; align-items:center; text-decoration:none;">
-  		<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="100" height="100" alt="Gmail"><br>
-		</a>
-		<span style="margin-top:5px;">Correo: yostinch@gmail.com</span>
-	</ul>
+<div>
+	<span>📧 Correo: yostinch@gmail.com</span>
+	<br>
+	<a href="https://www.linkedin.com/in/yostin-chavarria/" target="_blank">🔗 LinkedIn<a/>
 </div>
-<br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </body>
