@@ -4,11 +4,11 @@
 
 <body>
 	<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-	<h1 align="center">QA Engineer | Queality assurance</b></h1>
- 	<h1 align="left">Hola, soy Yostin Chavarria Castro </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+	<h1 align="center">QA Engineer | Quality assurance</b></h1>
+ 	<h1 align="left">Hello, I'm Yostin Chavarria Castro </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 	
 <!------------ Acerca de mi: ------------>
-## <picture><img  width = 50px></picture> **📌 Acerca de mi**
+## <picture><img  width = 50px></picture> **📌 About me**
 <br>
 <!------------ 
 <div>
@@ -22,8 +22,9 @@
 </div>
 ------------>
 <div>
-	<p>Hola, soy Yostin Chavarria Castro, Ingeniero Electrónico con formación y experiencia como QA Tester, tanto manual como automatizado. Me apasiona la tecnología, el aprendizaje continuo y mejorar la calidad del software a través de pruebas bien estructuradas y eficientes.</p>
-	<p>🔍 En busca de nuevas oportunidades o pasantías en el área de aseguramiento de la calidad de software.<p>
+	<p>Hello, my name is Yostin Chavarria Castro, an Electronic Engineer with training and experience as a QA Tester, both manual and automated. I am passionate about technology, continuous learning, and improving software quality through well-structured and efficient testing.</p>
+	<p>🔍 Seeking new opportunities or internships in the field of software quality assurance.<p>
+	<p>📚 Currently i'm studying and improving my english.</p>
 </div>
 <br>
 
@@ -33,30 +34,30 @@
 ## <img src="https://i.pinimg.com/originals/a6/8e/88/a68e88e5d3ecfb89ccec6859420e0514.gif" width ="25"><b> Skills and tools</b>
 
 <p align="center">
-		<p>🧪 Pruebas de software<p>
+		<p>🧪 Software testing<p>
 		<ul>
-			<li>Funcionales, regresión, exploratorias</li>
-			<li>Diseño de listas de comprobación, casos de prueba e informes de errores</li>
-			<li>Pruebas manuales: valores límite, clases de equivalencia, pruebas por pares</li>
+			<li>Functional, regression, exploratory.</li>
+			<li>Design of checklists, test cases, and bug reports.</li>
+			<li>Manual testing: boundary values, equivalence classes, pairwise testing.</li>
 		</ul>
-		<p>🤖 Automatización de pruebas<p>
+		<p>🤖 Test automation<p>
 		<ul>
-			<li>API: Python, PyTest, librería requests</li>
+			<li>API: Python, PyTest, requests library</li>
 			<li>Web: Python, PyTest, Selenium WebDriver, Page Object Model (POM)</li>
 		</ul>
-		<p>🗄️ Bases de datos<p>
+		<p>🗄️ Databases<p>
 		<ul>
 			<li>SQL, PostgreSQL</li>
 		</ul>
-		<p>🔁 Control de versiones<p>
+		<p>🔁 Version control<p>
 		<ul>
 			<li>Git, GitHub</li>
 		</ul>
-		<p>💻 Sistemas operativos<p>
+		<p>💻 Operating systems<p>
 		<ul>
 			<li>Linux, macOS, Windows</li>
 		</ul>
-		<p>🧰 Herramientas<p>
+		<p>🧰 Tools<p>
 		<ul>
 			<li>Jira, Postman, Android Studio, Selenium, LaTeX, Overleaf</li>
 		</ul>
@@ -170,35 +171,35 @@
 ## <b>🗃️ Funciones que puedo desempeñar 🔌</b>
 
 <p align="center">
-		<p>Pruebas Manuales<p>
+		<p>Manual Testing<p>
 		<ul>
-			<li>Ejecución de pruebas funcionales, de regresión y exploratorias.</li>
-			<li>Validación de usabilidad y experiencia de usuario (UX).</li>
-			<li>Diseño y documentación de casos de prueba, checklists y reportes de defectos.</li>
+			<li>Execution of functional, regression, and exploratory testing.</li>
+			<li>Validation of usability and user experience (UX).</li>
+			<li>Design and documentation of test cases, checklists, and bug reports.</li>
 		</ul>
-  		<p>Pruebas Automatizadas<p>
+  		<p>Automated Testing<p>
 		<ul>
-			<li>Automatización de pruebas web utilizando Selenium WebDriver con Python.</li>
-			<li>Desarrollo e implementación de frameworks de automatización basados en PyTest y el patrón Page Object Model (POM).</li>
+			<li>Web test automation using Selenium WebDriver with Python.</li>
+			<li>Development and implementation of automation frameworks based on PyTest and the Page Object Model (POM) pattern.</li>
 		</ul>
-  		<p>Pruebas de API<p>
+  		<p>API Testing<p>
 		<ul>
-			<li>Validación de endpoints REST utilizando Postman y la biblioteca requests de Python.</li>
-			<li>Verificación de códigos de estado HTTP y estructuras de respuesta en JSON.</li>
-			<li>Creación de colecciones y automatización de pruebas mediante scripts personalizados.</li>
+			<li>Validation of REST endpoints using Postman and the Python requests library.</li>
+			<li>Verification of HTTP status codes and JSON response structures.</li>
+			<li>Creation of collections and test automation through custom scripts.</li>
 		</ul>
-  		<p>Base de datos<p>
+  		<p>Databases<p>
 		<ul>
-			<li>Ejecución de consultas SQL para validación de datos.</li>
-			<li>Verificación de integridad, consistencia y calidad de la información almacenada.</li>
+			<li>Execution of SQL queries for data validation.</li>
+			<li>Verification of integrity, consistency, and quality of stored information.</li>
 		</ul>
 
 <!--------------------------------- Contacto ------------------------------------------->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-## <b> 📬 Contacto</b>
+## <b> 📬 Contact</b>
 
 <div>
-	<span>📧 Correo: yostinch@gmail.com</span>
+	<span>📧 Email: yostinch@gmail.com</span>
 	<br>
 	<a href="https://www.linkedin.com/in/yostin-chavarria/" target="_blank">🔗 LinkedIn<a/>
 </div>
