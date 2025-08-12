@@ -168,7 +168,7 @@
 <!--------------------------------- Funciones que puedo desempeñar ------------------------------------------->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-## <b>🗃️ Funciones que puedo desempeñar 🔌</b>
+## <b>🗃️ Functions I can perform 🔌</b>
 
 <p align="center">
 		<p>Manual Testing<p>
