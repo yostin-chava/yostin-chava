@@ -130,9 +130,7 @@
 			<img src="https://github.com/user-attachments/assets/00207009-2832-49e9-8944-83eaa1bda1fe" width ="25"><b> Projects Links: 
 				<ul>
 				<a href="https://github.com/yostin-chava/qa-project-Urban-Routes-es"><li><p>Automation - GitHub</p></li></a>
-				<a href="https://docs.google.com/spreadsheets/d/12GQ6bn0m1nXxZ6E_B-hzs9iY--x2E32U/edit?usp=sharing&ouid=102903299263068147054&rtpof=true&sd=true"><li><p>Check list and issues</p></li></a>
-				<a href="https://docs.google.com/spreadsheets/d/1h1gUPOs6noZoV1yLDFITd-ohCYlQumul/edit?usp=sharing&ouid=102903299263068147054&rtpof=true&sd=true"><li><p>Test cases, equivalence partitioning</p></li></a>
-				<a href="https://docs.google.com/spreadsheets/d/1RqfTAFmxCigGUIWPf1IsMfipRy46A1sI/edit?usp=sharing&ouid=102903299263068147054&rtpof=true&sd=true"><li><p>Checklist, Test cases and issues</p></li></a>
+				<a href="https://github.com/yostin-chava/Pruebas-manuales-qa-project-Urban-Routes-es"><li><p>Checklist, Test cases, Bug reports, Equivalence Classes - GitHub</p></li></a>
 				</ul>
 				</b>
 		</div>
