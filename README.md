@@ -157,7 +157,7 @@
   		<div>
 			<img src="https://github.com/user-attachments/assets/00207009-2832-49e9-8944-83eaa1bda1fe" width ="25"><b> Projects Links: 
 				<ul>
-				<a href="https://docs.google.com/spreadsheets/d/1NNCvepuM6Ma-9toSjPLB44OL9QTp9ZWw/edit?usp=sharing&ouid=102903299263068147054&rtpof=true&sd=true"><li><p>Checklist, Test cases and issues</p></li></a>
+				<a href="https://github.com/yostin-chava/Pruebas-manuales-qa-project-Urban-Scooter-end-2-end-testing"><li><p>Checklist, Test cases and issues - GitHub</p></li></a>
 				</ul>
 				</b>
 		</div>
