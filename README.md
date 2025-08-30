@@ -59,7 +59,7 @@
 		</ul>
 		<p>🧰 Tools<p>
 		<ul>
-			<li>Jira, Postman, Android Studio, Selenium, LaTeX, Overleaf</li>
+			<li>Jira, Postman, Android Studio, Figma, Selenium, LaTeX, Overleaf</li>
 		</ul>
 	<p align="center">
 		<!-- JIRA -->
