@@ -104,7 +104,7 @@
 			<img src="https://github.com/user-attachments/assets/00207009-2832-49e9-8944-83eaa1bda1fe" width ="25"><b> Projects Links: 
 				<ul>
 				<a href="https://github.com/yostin-chava/qa-project-Urban-Grocers-app-es"><li><p>Automation - GitHub</p></li></a>
-				<a href="https://github.com/yostin-chava/Pruebas-manuales-postman-qa-project-Urban-Grocers-app-es"><li><p>Casos de Prueba</p></li></a>
+				<a href="https://github.com/yostin-chava/Pruebas-manuales-postman-qa-project-Urban-Grocers-app-es"><li><p>Test list and bug reports - Github</p></li></a>
 				</ul>
 				</b>
 		</div>
