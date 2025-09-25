@@ -199,7 +199,9 @@
 <div>
 	<span>📧 Email: yostinch@gmail.com</span>
 	<br>
-	<a href="https://www.linkedin.com/in/yostin-chavarria/" target="_blank">🔗 LinkedIn<a/>
+	<span>💼 LinkedIn: </span><a href="https://www.linkedin.com/in/yostin-chavarria/" target="_blank">🔗 Yostin Chavarria<a/>
+	<br>
+	<span>🌐 Portafolio: </span><a href="https://www.linkedin.com/in/yostin-chavarria/" target="_blank">🔗 Mi portal<a/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
