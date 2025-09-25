@@ -104,7 +104,7 @@
 			<img src="https://github.com/user-attachments/assets/00207009-2832-49e9-8944-83eaa1bda1fe" width ="25"><b> Projects Links: 
 				<ul>
 				<a href="https://github.com/yostin-chava/qa-project-Urban-Grocers-app-es"><li><p>Automation - GitHub</p></li></a>
-				<a href="https://github.com/yostin-chava/Pruebas-manuales-postman-qa-project-Urban-Grocers-app-es"><li><p>Test cases and bug reports - Github</p></li></a>
+				<a href="https://github.com/yostin-chava/Pruebas-manuales-postman-qa-project-Urban-Grocers-app-es"><li><p>Test cases and Bug reports - Github</p></li></a>
 				</ul>
 				</b>
 		</div>
@@ -123,14 +123,14 @@
 		</ul>
   		<div>
   			<p style="margin-left: 15px;">
-    				<b>Key Words:</b> Python, Pytest, selenium WebDriver, DevTools, Jira, Checklist, Test List, POM.
+    				<b>Key Words:</b> Python, Pytest, Selenium WebDriver, DevTools, Jira, Checklist, Test List, POM.
  			</p>
 		</div>
   		<div>
 			<img src="https://github.com/user-attachments/assets/00207009-2832-49e9-8944-83eaa1bda1fe" width ="25"><b> Projects Links: 
 				<ul>
 				<a href="https://github.com/yostin-chava/qa-project-Urban-Routes-es"><li><p>Automation - GitHub</p></li></a>
-				<a href="https://github.com/yostin-chava/Pruebas-manuales-qa-project-Urban-Routes-es"><li><p>Checklist, Test cases, Bug reports, Equivalence Classes - GitHub</p></li></a>
+				<a href="https://github.com/yostin-chava/Pruebas-manuales-qa-project-Urban-Routes-es"><li><p>Checklist, Test cases, Bug reports, Equivalence classes - GitHub</p></li></a>
 				</ul>
 				</b>
 		</div>
@@ -157,7 +157,7 @@
   		<div>
 			<img src="https://github.com/user-attachments/assets/00207009-2832-49e9-8944-83eaa1bda1fe" width ="25"><b> Projects Links: 
 				<ul>
-				<a href="https://github.com/yostin-chava/Pruebas-manuales-qa-project-Urban-Scooter-end-2-end-testing"><li><p>Checklist, Test cases and issues - GitHub</p></li></a>
+				<a href="https://github.com/yostin-chava/Pruebas-manuales-qa-project-Urban-Scooter-end-2-end-testing"><li><p>Checklist, Test cases and Bug reports - GitHub</p></li></a>
 				</ul>
 				</b>
 		</div>
